@@ -7,7 +7,7 @@ Trying out React for the first time
  - Understand how to use properties and state to make a React Component
  
 ## Set up your environment
- - This lab already contains the configuration files (package.json, webpack.config.js) that was created [in this guide](https://github.com/kayashaolu/webarch/blob/master/md/w-setup-react-environment.md)
+ - This lab already contains the configuration files (package.json, webpack.config.js, .babelrc) that was created [in this guide](https://github.com/kayashaolu/webarch/blob/master/md/w-setup-react-environment.md)
  - The src/index.js and src/index.html files have already been created
  - In order to activate this environment, you will need to redownload the node_modules from the package.json file
  - Run `npm install` to install the node packages
