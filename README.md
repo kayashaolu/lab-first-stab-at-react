@@ -1,5 +1,5 @@
-# Lab: First stab at react
-Trying out React for the first time
+# Lab: Play with React Components
+Let's work with Components
 
 ## In this lab you will accomplish the following:
  - Understand how ReactDOM.render() works
